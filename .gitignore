@@ -1,0 +1,10 @@
+
+.fake
+.ionide
+
+bin/*
+obj/*
+Content/bin/*
+Content/obj/*
+src/**/bin/*
+src/**/obj/*
